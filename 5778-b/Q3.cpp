@@ -2,8 +2,8 @@
  * @file Q3.cpp
  * @author Raz Gavrieli
  * @brief 
- * a. XX::bb, XX::cc
- * b. YY::bb, YY::cc, YY::dd, YY::ee
+ * a. XX::bb, XX::cc -> Only BB and CC are virtual AND IMPLEMENTED. (dd is pure virtual and not implemented)
+ * b. YY::bb, YY::cc, YY::dd, YY::ee -> All of which are virtual and implemented.
  * c. XX::aa, YY::bb, YY::cc, YY::dd, XX::ee
  * d&e. Not in the syllabus 
  */
